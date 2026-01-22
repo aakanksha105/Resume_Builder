@@ -1,28 +1,75 @@
-# Resume-Builder
+# Resume Builder Web Application
 
-# Introduction
-This is a simple resume builder web application built using HTML, CSS, and JavaScript. 
+A client-side web application that allows users to create, customize, and generate professional resumes through an interactive and user-friendly interface.
 
-It provides a user-friendly interface to create professional resumes effortlessly.
+---
 
-# Features
-## User-friendly Interface: 
-  The application offers an intuitive interface for users to input their resume details easily.
+## Overview
 
-## Dynamic Preview: 
-  Users can see a real-time preview of their resume as they fill in their details, ensuring they can visualize the final document.
+This project focuses on building a responsive resume builder that enables users to input personal, educational, and professional details and instantly generate a structured resume layout. The application emphasizes simplicity, usability, and clean UI design while maintaining separation between content and presentation.
 
-## Customization: 
-  Users can customize various aspects of their resume, including personal information, work experience, education, skills, and more.
+The project demonstrates frontend development fundamentals, form handling, and dynamic content rendering in the browser.
 
-# Usage
+---
 
-Personal Information: Start by entering your personal information such as name, contact details, and address.
+## Key Highlights
+- Interactive resume creation through structured input forms
+- Real-time preview of resume content
+- Clean and responsive user interface
+- Client-side rendering without backend dependencies
+- Modular and easily extendable design
 
-Work Experience: Add your work experience details, including job title, company name, duration, and responsibilities.
+---
 
-Education: Input your educational qualifications, including degrees, majors, institutions, and graduation years.
+## Tech Stack
+- Markup: HTML5  
+- Styling: CSS3  
+- Scripting: JavaScript  
+- UI Design: Responsive layout principles  
 
-Skills: List your skills and competencies relevant to the job you're applying for.
+---
 
-Preview and Download: Once you've filled in all the necessary details, preview your resume. If satisfied, you can download the resume in PDF format.
+## Features
+- Input sections for personal details, education, experience, and skills
+- Dynamic resume preview as users enter information
+- Simple layout optimized for readability
+- Easy customization of content
+- Lightweight and fast client-side execution
+
+---
+
+## Application Flow
+
+User Inputs Resume Data  
+↓  
+JavaScript Processes Form Inputs  
+↓  
+Dynamic Resume Rendering  
+↓  
+Formatted Resume Output  
+
+---
+
+## Setup & Usage
+
+1. Clone the repository
+2. Open the project directory
+3. Launch the application by opening `index.html` in a web browser
+4. Enter details into the form fields to generate a resume
+
+No additional dependencies or installations are required.
+
+---
+
+## Learning Outcomes
+- Strengthened frontend development fundamentals
+- Gained experience with DOM manipulation and event handling
+- Improved understanding of UI/UX principles for form-based applications
+- Built a complete client-side web application from scratch
+
+---
+
+## Author
+Aakanksha Bhondve
+
+
